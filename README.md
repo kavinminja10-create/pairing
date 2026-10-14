@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-hgm"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=blue&center=true&width=1000&height=200&lines=RAHMANI-XMD" alt="Typing HGM" /></a>
+<a href="https://git.io/typing-hgm"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=red&center=true&width=1000&height=200&lines=KEVOO-MD" alt="Typing HGM" /></a>
