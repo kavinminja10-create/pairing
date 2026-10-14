@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*_Pair Code Connected by RAHMANI XMD*
+*_Pair Code Connected by KEVOO MD*
 ______________________________________
 ╔════◇
 ║ *『 THANKS 👍 FOR  SHOWING LOVE』*
@@ -70,8 +70,8 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/255693629079_
-║❒ *Repo:* _https://github.com/Qartde/RAHMANI-XMD
+║❒ *Owner:* _https://wa.me/255618010036_
+║❒ *Repo:* _https://github.com/Qartde/KEVOO-MD
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb3eLRU3QxS5CZHI131x _
 ║❒ WaChannel 2:* _https://whatsapp.com/channel/0029VatokI45EjxufALmY32X _
 ║❒ 
