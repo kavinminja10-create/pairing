@@ -1,9 +1,9 @@
 {
-    "name": "Alone Pairing",
-    "description": "FLASH-MD WA bot, Created by France King",
-    "logo": "https://telegra.ph/file/8dace2d24b82568c29e19.jpg",
+    "name": "Kevoo Pairing",
+    "description": "KEVOO-MD WA bot, Created by Kevoo",
+    "logo": "<img src="https://img.sanishtech.com/u/dedbde097c06a743da7968c910aeb1fd.png" alt="168426" width="1254" height="1254" loading="lazy" style="max-width:100%;height:auto;">",
     "repository": "https://github.com/toputech/Flash-Md-Session11/tree/main",
-    "keywords": ["FlashMd"],
+    "keywords": ["KevooMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
